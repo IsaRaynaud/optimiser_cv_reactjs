@@ -43,7 +43,7 @@ const Contact = () => {
                                 <textarea className="form-control" placeholder="Votre message"></textarea>
                             </div>
                             <div className="d-flex justify-content-center">                       
-                                <button type="submit" className="btn btn-custom">Envoyer</button>
+                                <button type="submit" className="btn btn-primary">Envoyer</button>
                             </div>
                         </form>
                     </div>
